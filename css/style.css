@@ -544,7 +544,7 @@ h3 {
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  font-family: "arial";
+  font-family: "Comic Sans MS";
 }
 
 /* line 123, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_btn.scss */
@@ -587,7 +587,7 @@ h3 {
   font-size: 16px;
   color: #fff;
   padding: 12px 30px;
-  background: #FDAE5C;
+  background: #04D2C8;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   border-radius: 30px;
@@ -597,14 +597,15 @@ h3 {
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  font-family: "Comic Sans MS";
 }
 
 /* line 158, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_btn.scss */
 .boxed_btn_orange:hover {
   background: transparent;
-  color: #FDAE5C;
-  border: 1px solid #FDAE5C;
-  color: #FDAE5C !important;
+  color: #04D2C8;
+  border: 1px solid #04D2C8;
+  color: #04D2C8 !important;
 }
 
 /* line 166, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_btn.scss */
@@ -2598,7 +2599,7 @@ h3 {
 
 /* line 23, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_coures.scss */
 .our_courses .single_course .icon i {
-  color: #FD8E5E;
+  color: #04D2C8;
   font-size: 45px;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
@@ -2642,7 +2643,7 @@ h3 {
 /* line 53, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_coures.scss */
 .our_courses .single_course:before {
   position: absolute;
-  background: #FD8E5E;
+  background: #04D2C8;
   bottom: 0;
   left: 0;
   width: 100%;
